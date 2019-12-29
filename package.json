@@ -7,5 +7,8 @@
     "topdf": "wkhtmltopdf out/resume.html out/resume.pdf",
     "topdfzoom": "wkhtmltopdf --dpi 300 --zoom 1.8 index.html LePhucTai.pdf",
     "build": "hackmyresume build pte-resume.json TO build/resume.all -t ./themes/jsonresume-theme-stackoverflow"
+  },
+  "devDependencies": {
+    "wkhtmltopdf": "^0.3.4"
   }
 }
