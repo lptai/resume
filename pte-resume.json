@@ -66,7 +66,7 @@
       "startDate": "2018-01",
       "endDate": "2019-05",
       "description": "Ticketing system",
-      "summary": "As a developer, I participated in a product team with Agile/Scrum development process. Daily meeting with the team (VN-CH). Clarifying requirement with the business owner. Do work breakdown structure for User Story, defining impact, implementing & write automation test for each new feature in User Story. Collaborating with the customer support team to analyze and fix issues in production.",
+      "summary": "As a developer, I participated in a product team with Agile/Scrum development process. Daily meeting with the team (VN-CH).Clarify requirement with the business owner. Do work breakdown structure for User Story, define impact, implement & write automation test for each new feature in User Story. Collaborating with the customer support team to analyze and fix issues in production.",
       "highlights": [
         "Product mindset in Agile/Scrum development.",
         "Responsible for the quality of a Frontend module that helps to visualize seat maps with D3 & ExtJs.",
@@ -112,7 +112,7 @@
             "Develop widgets (providing as an iframe) for customers so that they can put on their website. An innovative topic, working directly with colleagues in Switzerland.",
             "Implement REST API to provide data for Frontend. Build UI component, widget for final purpose is reused and embedded into customers' website."
           ],
-          "keywords": ["Widget", "React", "Redux", "Rest api"]
+          "keywords": ["Widget", "React", "Redux", "Rest api", "Webpack", "Gulp"]
         }
       ]
     }
