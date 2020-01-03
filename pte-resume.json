@@ -4,7 +4,7 @@
     "label": "Full-stack developer",
     "email": "1112264.lptai@gmail.com",
     "phone": "(84) 77 575 2222",
-    "website": "http://phuctaile.com",
+    "website": "https://phuctaile.com",
     "summary": "Full-stack developer with 4 years of experiences specializing in JavaScript (ExtJs, D3, React-Redux) and Java (Spring, Hibernate)",
     "location": {
       "address": "1050 apartment, 04 Phan Chu Trinh, Binh Thanh",
@@ -66,7 +66,7 @@
       "startDate": "2018-01",
       "endDate": "2019-05",
       "description": "Ticketing system",
-      "summary": "As a developer, I participated in a product team with Agile/Scrum development process. Daily meeting with the team (VN-CH).Clarify requirement with the business owner. Do work breakdown structure for User Story, define impact, implement & write automation test for each new feature in User Story. Collaborating with the customer support team to analyze and fix issues in production.",
+      "summary": "As a developer, I participated in a product team with Agile/Scrum development process. Daily meeting with the team (VN-CH).Clarify requirement with the business owner. Do work breakdown structure for User Story, define impact, implement & write automation test for each new feature in User Story. Collaborating with the customer success team to analyze and support incident.",
       "highlights": [
         "Product mindset in Agile/Scrum development.",
         "Responsible for the quality of a Frontend module that helps to visualize seat maps with D3 & ExtJs.",
@@ -110,7 +110,7 @@
           "position": "Senior Developer",
           "highlights": [
             "Develop widgets (providing as an iframe) for customers so that they can put on their website. An innovative topic, working directly with colleagues in Switzerland.",
-            "Implement REST API to provide data for Frontend. Build UI component, widget for final purpose is reused and embedded into customers' website."
+            "Implement REST API to provide data for Frontend. Build UI component, widget for final purpose is reused and embedded into customer's website."
           ],
           "keywords": ["Widget", "React", "Redux", "Rest api", "Webpack", "Gulp"]
         }
