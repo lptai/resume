@@ -56,12 +56,6 @@
         },
         {
             "company": "ELCA",
-            "position": "Software Engineer",
-            "startDate": "2015-08",
-            "endDate": "2018-01"
-        },
-        {
-            "company": "SecuTix | ELCA",
             "position": "Senior Software Engineer",
             "website": "https://www.secutix.com/",
             "startDate": "2018-01",
@@ -78,7 +72,14 @@
                 "Mentoring new members join the team.",
                 "Re-search and sharing new technologies with team members and co-workers.",
                 "Coordinating with other teams in the same project."
-            ],
+            ]
+        },
+        {
+            "company": "SecuTix | ELCA",
+            "website": "https://www.secutix.com/",
+            "position": "Software Engineer",
+            "startDate": "2015-08",
+            "endDate": "2018-01",
             "projects": [
                 {
                     "name": "Box Office",
@@ -126,7 +127,7 @@
             "summary": "We develop a new product target to small business (SME) for TymeBank. I participate in Agile team, mostly responsible for Frontend stuff (code review, design, etc). We have optimized the bundle file, remove vulnerabilities packages, upgrade packages to improve the reliability",
             "highlights": [],
             "projects": [],
-            "keywords": ["Agile (LeSS)", "React, Redux", "RxJS"]
+            "keywords": ["Agile (LeSS)", "React, Redux", "RxJS", "Java", "Microservice", "Kafka"]
         }
     ],
     "education": [
