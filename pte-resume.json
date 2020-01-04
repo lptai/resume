@@ -108,7 +108,7 @@
                     "name": "Gravity",
                     "startDate": "2017-12",
                     "endDate": "2019-04",
-                    "position": "Senior Developer",
+                    "position": "Senior Software Engineer",
                     "highlights": [
                         "Develop widgets (providing as an iframe) for customers so that they can put on their website. An innovative topic, working directly with colleagues in Switzerland.",
                         "Implement REST API to provide data for Frontend. Build UI component, widget for final purpose is reused and embedded into customer's website."
@@ -118,15 +118,15 @@
             ]
         },
         {
-            "company": "TYME | SME",
+            "company": "TYME | SME Area",
             "position": "Senior Software Engineer",
-            "website": "https://www.secutix.com/",
+            "website": "https://www.tymebank.co.za/",
             "startDate": "2019-06",
-            "endDate": "now",
-            "description": "",
-            "summary": "",
+            "description": "SME product for TymeBank customer",
+            "summary": "We develop a new product target to small business (SME) for TymeBank. I participate in Agile team, mostly responsible for Frontend stuff (code review, design, etc). We have optimized the bundle file, remove vulnerabilities packages, upgrade packages to improve the reliability",
             "highlights": [],
-            "projects": []
+            "projects": [],
+            "keywords": ["Agile (LeSS)", "React, Redux", "RxJS"]
         }
     ],
     "education": [
