@@ -15,19 +15,19 @@
 //     }
 // })();
 
-const request = require('request');
+const axios = require('axios');
 const fs = require('fs');
-const path = require('path');
 
 fs.readFile('./build/index.html', 'utf8', function(err, data) {
-    var opts = {
-        uri: 'https://api.sejda.com/v2/html-pdf',
+    var config = {
+        method: 'post',
+        url: 'https://api.sejda.com/v2/html-pdf',
         headers: {
             Authorization: 'Token: ' + 'api_public_1b813522f642426188bd47e6db9f94c0',
         },
-        json: {
+        responseType: 'stream',
+        data: {
             partialContentAllowed: true,
-            // urls: 'http://phuctaile.com/resume',
             htmlCode: data,
             pageSize: '',
             pageOrientation: 'auto',
@@ -40,20 +40,14 @@ fs.readFile('./build/index.html', 'utf8', function(err, data) {
         },
     };
 
-    request
-        .post(opts)
-        .on('error', function(err) {
-            return console.error(err);
+    axios(config)
+        .then(res => res.data)
+        .then(data => {
+            data.pipe(fs.createWriteStream('./build/phuctaile.pdf')).on('finish', function() {
+                console.log('PDF saved to disk');
+            });
         })
-        .on('response', function(response) {
-            if (response.statusCode === 200) {
-                response
-                    .pipe(fs.createWriteStream('./build/phuctaile.pdf'))
-                    .on('finish', function() {
-                        console.log('PDF saved to disk');
-                    });
-            } else {
-                return console.error('Got code: ' + response.statusCode);
-            }
+        .catch(error => {
+            console.log('error status', error.response.status);
         });
 });
