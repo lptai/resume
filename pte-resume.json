@@ -58,13 +58,7 @@
       "company": "SecuTix | ELCA",
       "position": "Senior Software Engineer",
       "startDate": "2018-01",
-      "endDate": "2019-05"
-    },
-    {
-      "company": "SecuTix | ELCA",
-      "position": "Software Engineer",
-      "startDate": "2015-08",
-      "endDate": "2018-05",
+      "endDate": "2019-05",
       "website": "https://www.secutix.com/",
       "description": "Ticketing system",
       "summary": "SecuTix is a Global provider of a Ticketing Engagement Platform that helps organizations boost ticket sales and enhance audiences’ experience before, during, and after events. Our customers are Opéra National de Paris, the UEFA, Centre Pompidou, Aspro Parks, Saracens, Paléo Festival, and more.",
@@ -93,6 +87,12 @@
           "keywords": ["Widget", "React", "Redux", "Rest api", "Webpack", "Gulp"]
         }
       ]
+    },
+    {
+      "company": "SecuTix | ELCA",
+      "position": "Software Engineer",
+      "startDate": "2015-08",
+      "endDate": "2018-05"
     },
     {
       "company": "TYME | SME Area",
