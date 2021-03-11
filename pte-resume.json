@@ -57,7 +57,7 @@
     {
       "company": "SecuTix | ELCA",
       "position": "Senior Software Engineer",
-      "startDate": "2018-01",
+      "startDate": "2015-08",
       "endDate": "2019-05",
       "website": "https://www.secutix.com/",
       "description": "Ticketing system",
@@ -87,12 +87,6 @@
           "keywords": ["Widget", "React", "Redux", "Rest api", "Webpack", "Gulp"]
         }
       ]
-    },
-    {
-      "company": "SecuTix | ELCA",
-      "position": "Software Engineer",
-      "startDate": "2015-08",
-      "endDate": "2018-05"
     },
     {
       "company": "TYME | SME Area",
