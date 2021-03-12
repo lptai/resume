@@ -60,10 +60,11 @@
       "startDate": "2015-08",
       "endDate": "2019-05",
       "website": "https://www.secutix.com/",
+      "keywords": ["Ticketing", "Agile", "React, Redux", "Java", "Widget"],
       "description": "Ticketing system",
       "summary": "SecuTix is a Global provider of a Ticketing Engagement Platform that helps organizations boost ticket sales and enhance audiences’ experience before, during, and after events. Our customers are Opéra National de Paris, the UEFA, Centre Pompidou, Aspro Parks, Saracens, Paléo Festival, and more.",
       "highlights": [
-        "Responsibilities:\nAs a developer, I participated in a product team with Agile/Scrum development process.\n- Do work breakdown structure for User Story, defining impact, implementing new features.\n- Collaborate with the customer support team to analyze and fix issues in production.\n- Do code review together in the team.\n- Responsible for the quality and optimize performance with good data structure & algorithms for a Seat Map module that helps to visualize seat map with D3 & ExtJS (canvas, SVG, html5).\n- Develop a large scale widget in a mono repo.",
+        "Responsibilities:\n- As a developer, I participate in a product team with Agile/Scrum development process.\n- Do work breakdown structure for User Story, define impact, implement new features.\n- Collaborate with the customer support team to analyze and fix issues in production.\n- Do code review together in the team.\n- Responsible for the quality and optimize performance with good data structure & algorithms for a Seat Map module that helps to visualize seat map with D3 & ExtJS (canvas, SVG, html5).\n- Develop a large scale widget in a mono repo.",
         "Technical stacks:\n- Frontend: HTML5, CSS3, JavaScript, Extjs, JQuery, D3, canvas, svg, react - redux, jest, enzyme, Webpack, Babel, Gulp, Storybook, NPM/Yarn, mono ui components, styled component.\n- Backend: Java, Spring, Hibernate, Oracle, NoSQL (MongoDB).\n- CI/CD: Jenkins."
       ],
       "projects": [
@@ -77,31 +78,54 @@
         },
         {
           "name": "Gravity",
-          "startDate": "2017-12",
-          "endDate": "2019-04",
           "position": "Senior Software Engineer",
           "highlights": [
             "Develop widgets (providing as an iframe) for customers so that they can put on their website. An innovative topic, working directly with colleagues in Switzerland.",
-            "Implement REST API to provide data for Frontend. Build UI component, widget for final purpose is reused and embedded into customer's website."
+            "Implement REST API to provide data for Frontend. Build UI component, widget for final purpose is reused and plugged in customer's website."
           ],
           "keywords": ["Widget", "React", "Redux", "Rest api", "Webpack", "Gulp"]
         }
       ]
     },
     {
-      "company": "TYME | SME Area",
+      "company": "TymeGlobal",
       "position": "Senior Software Engineer",
       "website": "https://www.tymebank.co.za/",
       "startDate": "2019-06",
       "description": "",
-      "summary": "TymeGlobal is building a multi-country Digital Bank focused on emerging markets in Asia and Africa. We design, build, and operate digital banking ecosystems.",
+      "summary": "TymeGlobal is building a multi-country Digital Bank focused on emerging markets in Asia and Africa. We design, build, and operate digital banking ecosystems.\nResponsibilities: ",
       "highlights": [
-        "Our team has developed:\n- New product Small and mid-size enterprises (SME) for TymeBank.\n- Integration with Core Banking and many third parties (Mambu, Smart Shopper | Pick n Pay, SmartVista, RCS - credit card)\n- Many new features such as SendMany (send money to many people with just one click), Bulk Payment (can be used for paying monthly salary)",
-        "  Responsibilities:\n- Coordinate with team members (PO/BA/QA/SA) to clarify the requirements.\n- Implement new features and release them with a plan on production.\n- Build reusable code for UI components and document them by using Storybook.\n- Participate in design and code reviews.\n- Support incidents.",
-        "Technical stacks:\n- Frontend: HTML5, SCSS/SASS/CSS in JS, JavaScript, ES6, React-Redux, NPM/Yarn, Jest, Enzyme, Webpack, Eslint, Babel, Storybook, NodeJS.\n- Backend: Microservices, Kafka, Java, SpringBoot, Docker, MySQL, AWS Cloud service (Serverless, DynamoDB, Cloudformation, etc).\n- CI/CD: TeamCity."
+        "Coordinate with team members (PO/BA/QA/SA) to clarify the requirements.",
+        "Implement new features and release them with a plan on production.",
+        "Do detail design and code review",
+        "Support incidents."
       ],
-      "projects": [],
-      "keywords": ["Agile (LeSS)", "React, Redux", "RxJS", "Java", "Microservice", "Kafka"]
+      "projects": [
+        {
+          "name": "MoreTyme - Buy now, Pay later",
+          "url": "https://www.tymebank.co.za/personal-banking/accounts/moretyme/",
+          "summary": "MoreTyme is a Buy Now, Pay Later service for TymeBank customers. It means they can pay for half of their purchase at the till point (but you get your payment in full), take it home straight away and then pay us the rest over 2 months!",
+          "highlights": [
+            "Clarify, design and develop microservices to integrate with Electrum, Pick n Pay",
+            "Develop scheduled job to generate billing and send to customer"
+          ],
+          "keywords": ["Fintech", "Banking", "Agile (LeSS)", "Java", "SpringBoot", "Microservice", "Kafka", "AWS"]
+
+        },
+        {
+          "name": "Business Banking",
+          "url": "https://www.tymebank.co.za/business-banking/",
+          "summary": "",
+          "highlights": [
+            "Responsible for development and quality of internet banking. The single page web application.",
+            "Build reusable code for UI components and document with Storybook.",
+            "Integrate with Core Banking and many third parties (Mambu, Smart Shopper | Pick n Pay, SmartVista, RCS - credit card, Electrum)",
+            "Develop new features such as SendMany (send money to many people with just one click), Bulk Payment (can be used for paying monthly salary) and Credit Card"
+          ],
+          "keywords": ["Business banking", "Single Page Application", "React, Redux", "Storybook", "SpringBoot", "AWS"]
+        }
+      ],
+      "keywords": ["Fintech", "Banking", "Agile (LeSS)", "React, Redux", "Storybook", "Java", "SpringBoot", "Microservice", "Kafka", "AWS"]
     }
   ],
   "education": [
