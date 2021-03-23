@@ -108,7 +108,7 @@
           "highlights": [
             "Clarify, design and develop microservices to integrate with Electrum, Pick n Pay",
             "Develop scheduled job to generate billing and send to customer",
-            "Write scalable serverless with AWS (s3, msk, lambda etc)"
+            "Write scalable serverless application with AWS (s3, msk, lambda etc)"
           ],
           "keywords": ["Fintech", "Banking", "Agile (LeSS)", "Java", "SpringBoot", "Microservice", "Kafka", "AWS"]
 
