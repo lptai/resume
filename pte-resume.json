@@ -107,7 +107,8 @@
           "summary": "MoreTyme is a Buy Now, Pay Later service for TymeBank customers. It means they can pay for half of their purchase at the till point (but you get your payment in full), take it home straight away and then pay us the rest over 2 months!",
           "highlights": [
             "Clarify, design and develop microservices to integrate with Electrum, Pick n Pay",
-            "Develop scheduled job to generate billing and send to customer"
+            "Develop scheduled job to generate billing and send to customer",
+            "Write scalable serverless with AWS (s3, msk, lambda etc)"
           ],
           "keywords": ["Fintech", "Banking", "Agile (LeSS)", "Java", "SpringBoot", "Microservice", "Kafka", "AWS"]
 
