@@ -104,7 +104,7 @@
         {
           "name": "MoreTyme - Buy now, Pay later",
           "url": "https://www.tymebank.co.za/personal-banking/accounts/moretyme/",
-          "summary": "MoreTyme is a Buy Now, Pay Later service for TymeBank customers. It means they can pay for half of their purchase at the till point (but you get your payment in full), take it home straight away and then pay us the rest over 2 months!",
+          "summary": "MoreTyme is a Buy Now, Pay Later service for TymeBank customers. You pay half the item’s purchase price at the till point and take it home straight away. Then pay the rest in 2 equal payments over 2 months.",
           "highlights": [
             "Clarify, design and develop microservices to integrate with Electrum, Pick n Pay",
             "Develop scheduled job to generate billing and send to customer",
