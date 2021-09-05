@@ -94,21 +94,18 @@
       "startDate": "2019-06",
       "description": "",
       "summary": "Tyme is building a multi-country digital bank focused on emerging markets in Asia and Africa. TymeGlobal partners with in-country local partners to launch next-generation digital banks.\nResponsibilities: ",
-      "highlights": [
-        "Coordinated with teams (PO/BA/QA/SA) to clarify the requirements.",
-        "Designed, developed, and released distributed banking system with Microservice architecture, k8s, AWS cloud-native service.",
-        "Integrated with 3rd parties (Electrum, Mambu, Zapper, Pick n Pay).",
-        "In charge of the development and quality of internet banking, a single-page web application."
-      ],
       "projects": [
         {
           "name": "MoreTyme - Buy now, Pay later",
           "url": "https://www.tymebank.co.za/personal-banking/accounts/moretyme/",
           "summary": "MoreTyme is a Buy Now, Pay Later service for TymeBank customers. You pay half the item’s purchase price at the till point and take it home straight away. Then pay the rest in 2 equal payments over 2 months.",
           "highlights": [
-            "Clarify, design and develop microservices to integrate with Electrum, Pick n Pay",
-            "Develop scheduled job to generate billing and send to customer",
-            "Write scalable serverless application with AWS (s3, msk, lambda etc)"
+            "Coordinated with teams (PO/BA/QA/SA) to clarify the requirements.",
+            "Designed, developed, and released distributed banking system with Microservice architecture, k8s, AWS cloud-native service.",
+            "Integrated with 3rd parties (Electrum, Mambu, Zapper, Pick n Pay).",
+            "Developed scheduled jobs to generate the bill and send them to customer",
+            "Experienced with Kafka, Event-Driven architecture.",
+            "Wrote scalable serverless application with AWS (s3, msk, lambda etc)"
           ],
           "keywords": ["Fintech", "Banking", "Agile (LeSS)", "Java", "SpringBoot", "Microservice", "Kafka", "AWS"]
 
