@@ -5,7 +5,7 @@
     "email": "1112264.lptai@gmail.com",
     "phone": "(84) 77 575 2222",
     "website": "https://phuctaile.com",
-    "summary": "I'm a senior software engineer with more than 5 years in Frontend development with React, Redux, and JavaScript. And hands-on Backend stuff such as Java, Spring, Hibernate, Docker",
+    "summary": "I'm a senior software engineer with more than 6 years in building and delivering enterprise products, software as a service, and digital banking. Experienced with Agile methodologies, Cloud-based applications, and distributed system.",
     "location": {
       "address": "",
       "postalCode": "70000",
@@ -64,8 +64,8 @@
       "description": "Ticketing system",
       "summary": "SecuTix is a Global provider of a Ticketing Engagement Platform that helps organizations boost ticket sales and enhance audiences’ experience before, during, and after events. Our customers are Opéra National de Paris, the UEFA, Centre Pompidou, Aspro Parks, Saracens, Paléo Festival, and more.",
       "highlights": [
-        "Responsibilities:\n- As a developer, I participate in a product team with Agile/Scrum development process.\n- Do work breakdown structure for User Story, define impact, implement new features.\n- Collaborate with the customer support team to analyze and fix issues in production.\n- Do code review together in the team.\n- Responsible for the quality and optimize performance with good data structure & algorithms for a Seat Map module that helps to visualize seat map with D3 & ExtJS (canvas, SVG, html5).\n- Develop a large scale widget in a mono repo.",
-        "Technical stacks:\n- Frontend: HTML5, CSS3, JavaScript, Extjs, JQuery, D3, canvas, svg, react - redux, jest, enzyme, Webpack, Babel, Gulp, Storybook, NPM/Yarn, mono ui components, styled component.\n- Backend: Java, Spring, Hibernate, Oracle, NoSQL (MongoDB).\n- CI/CD: Jenkins."
+        "Responsibilities:\n- Did work-breakdown structure for User Story, defined impact, implemented new features.\n- Coordinated with the customer support team to analyze and fixed incidents in production.\n- Did code review together in the team.\n- Optimized the performance of the Seat Map - a web module to visualize the stadium, cinema, theater to the application.\n- Developed a large-scale widget in a mono repo.",
+        "Technologies:\n- HTML5, CSS3, JavaScript, Extjs, JQuery, D3, canvas, svg, react-redux, jest, enzyme, Webpack, Babel, Gulp, Storybook, NPM/Yarn, monorepo, styled component.\n- Java, Spring, Hibernate, Oracle, NoSQL (MongoDB).\n- CI/CD: Jenkins."
       ],
       "projects": [
         {
@@ -80,8 +80,8 @@
           "name": "Gravity",
           "position": "Senior Software Engineer",
           "highlights": [
-            "Develop widgets (providing as an iframe) for customers so that they can put on their website. An innovative topic, working directly with colleagues in Switzerland.",
-            "Implement REST API to provide data for Frontend. Build UI component, widget for final purpose is reused and plugged in customer's website."
+            "Developed widgets (providing as an iframe) for customers so that they can put on their website. An innovative topic, worked directly with colleagues in Switzerland.",
+            "Implemented REST API to provide data to the Frontend. Built UI component, widget to be embedded/plugged-in customer's website or application."
           ],
           "keywords": ["Widget", "React", "Redux", "Rest api", "Webpack", "Gulp"]
         }
@@ -93,12 +93,12 @@
       "website": "https://www.tymebank.co.za/",
       "startDate": "2019-06",
       "description": "",
-      "summary": "TymeGlobal is building a multi-country Digital Bank focused on emerging markets in Asia and Africa. We design, build, and operate digital banking ecosystems.\nResponsibilities: ",
+      "summary": "Tyme is building a multi-country digital bank focused on emerging markets in Asia and Africa. TymeGlobal partners with in-country local partners to launch next-generation digital banks.\nResponsibilities: ",
       "highlights": [
-        "Coordinate with team members (PO/BA/QA/SA) to clarify the requirements.",
-        "Implement new features and release them with a plan on production.",
-        "Do detail design and code review",
-        "Support incidents."
+        "Coordinated with teams (PO/BA/QA/SA) to clarify the requirements.",
+        "Designed, developed, and released distributed banking system with Microservice architecture, k8s, AWS cloud-native service.",
+        "Integrated with 3rd parties (Electrum, Mambu, Zapper, Pick n Pay).",
+        "In charge of the development and quality of internet banking, a single-page web application."
       ],
       "projects": [
         {
@@ -118,10 +118,9 @@
           "url": "https://www.tymebank.co.za/business-banking/",
           "summary": "",
           "highlights": [
-            "Responsible for development and quality of internet banking. The single page web application.",
-            "Build reusable code for UI components and document with Storybook.",
-            "Integrate with Core Banking and many third parties (Mambu, Smart Shopper | Pick n Pay, SmartVista, RCS - credit card, Electrum)",
-            "Develop new features such as SendMany (send money to many people with just one click), Bulk Payment (can be used for paying monthly salary) and Credit Card"
+            "In charge of the development and quality of internet banking, a single-page web application.",
+            "Built reusable UI components and document them by Storybook.",
+            "Brought awesome features to customers. E.g: send2many, bulk payment - send money up to 30 invoices at one."
           ],
           "keywords": ["Business banking", "Single Page Application", "React, Redux", "Storybook", "SpringBoot", "AWS"]
         }
