@@ -156,10 +156,11 @@
       "position": "Frontend Engineer",
       "website": "https://flownetworks.io/",
       "startDate": "2021-04",
-      "summary": "💳 Every Payment is a Real-Time Engagement Opportunity. Flow enables issuers to reach, engage and retain their customers by nudging consumers to use their product and service again, again and again.\nThe intuitive and powerful Flow Platform is built on top of any payment feed enabling issuers to engage with their customers, multiple times a day, based on their their real-time payment behavior.",
+      "summary": "💳 Every Payment is a Real-Time Engagement Opportunity. Flow enables issuers to reach, engage and retain their customers by nudging consumers to use their product and service again, again and again.\nThe intuitive and powerful Flow Platform is built on top of any payment feed enabling issuers to engage with their customers, multiple times a day, based on their their real-time payment behavior.\nResponsibilities:",
       "highlights": [
         "Bring wow, a-ha moment to end-users by developing awesome widgets, ui components",
-        "Participate in feature Agile team, do work break down and estimation"
+        "Working on Micro-Frontend modules, build various ui widgets to embedded in mobile and re-use in many places",
+        "Get the best experience to customers by coordinating with designers, product owners, and members in team"
       ],
       "keywords": ["Fintech", "Payment", "Webpack", "Vue", "JavaScript (ES6)", "AWS"]
     }
