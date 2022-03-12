@@ -92,13 +92,14 @@
       "position": "Senior Software Engineer",
       "website": "https://www.tymebank.co.za/",
       "startDate": "2019-06",
+      "endDate": "2021-06",
       "description": "2021-07",
-      "summary": "Tyme is building a multi-country digital bank focused on emerging markets in Asia and Africa. TymeGlobal partners with in-country local partners to launch next-generation digital banks.",
+      "summary": "🏦 Tyme is building a multi-country digital bank focused on emerging markets in Asia and Africa. TymeGlobal partners with in-country local partners to launch next-generation digital banks.",
       "projects": [
         {
           "name": "MoreTyme - Buy now, Pay later",
           "url": "https://www.tymebank.co.za/personal-banking/accounts/moretyme/",
-          "summary": "MoreTyme is a Buy Now, Pay Later service for TymeBank customers. You pay half the item’s purchase price at the till point and take it home straight away. Then pay the rest in 2 equal payments over 2 months.",
+          "summary": "🛒 MoreTyme is a Buy Now, Pay Later service for TymeBank customers. You pay half the item’s purchase price at the till point and take it home straight away. Then pay the rest in 2 equal payments over 2 months.",
           "highlights": [
             "Coordinated with teams (PO/BA/QA/SA) to clarify the requirements.",
             "Designed, developed, and released distributed banking system with Microservice architecture, k8s, AWS cloud-native service.",
@@ -107,11 +108,19 @@
             "Experienced with Kafka, Event-Driven architecture.",
             "Wrote scalable serverless application with AWS (s3, msk, lambda etc)"
           ],
-          "keywords": ["Fintech", "Banking", "Agile (LeSS)", "Java", "SpringBoot", "Microservice", "Kafka", "AWS"]
-
+          "keywords": [
+            "Fintech",
+            "Banking",
+            "Agile (LeSS)",
+            "Java",
+            "SpringBoot",
+            "Microservice",
+            "Kafka",
+            "AWS"
+          ]
         },
         {
-          "name": "Business Banking",
+          "name": "🧰 Business Banking",
           "url": "https://www.tymebank.co.za/business-banking/",
           "summary": "",
           "highlights": [
@@ -119,10 +128,40 @@
             "Built reusable UI components and document them by Storybook.",
             "Brought awesome features to customers. E.g: send2many, bulk payment - send money up to 30 invoices at one."
           ],
-          "keywords": ["Business banking", "Single Page Application", "React, Redux", "Storybook", "SpringBoot", "AWS"]
+          "keywords": [
+            "Business banking",
+            "Single Page Application",
+            "React, Redux",
+            "Storybook",
+            "SpringBoot",
+            "AWS"
+          ]
         }
       ],
-      "keywords": ["Fintech", "Banking", "Agile (LeSS)", "React, Redux", "Storybook", "Java", "SpringBoot", "Microservice", "Kafka", "AWS"]
+      "keywords": [
+        "Fintech",
+        "Banking",
+        "Agile (LeSS)",
+        "React, Redux",
+        "Storybook",
+        "Java",
+        "SpringBoot",
+        "Microservice",
+        "Kafka",
+        "AWS"
+      ]
+    },
+    {
+      "company": "Flow",
+      "position": "Frontend Engineer",
+      "website": "https://flownetworks.io/",
+      "startDate": "2021-04",
+      "summary": "💳 Every Payment is a Real-Time Engagement Opportunity. Flow enables issuers to reach, engage and retain their customers by nudging consumers to use their product and service again, again and again.\nThe intuitive and powerful Flow Platform is built on top of any payment feed enabling issuers to engage with their customers, multiple times a day, based on their their real-time payment behavior.",
+      "highlights": [
+        "Bring wow, a-ha moment to end-users by developing awesome widgets, ui components",
+        "Participate in feature Agile team, do work break down and estimation"
+      ],
+      "keywords": ["Fintech", "Payment", "Webpack", "Vue", "JavaScript (ES6)", "AWS"]
     }
   ],
   "education": [
