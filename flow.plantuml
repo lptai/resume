@@ -12,11 +12,10 @@ return
 deactivate dev
 activate github
 activate travis
-github -> travis: trigger build
+github -> travis: trigger build by notifying travis via webhook
 travis --> github
 deactivate github
 == BUILD ==
-
 travis -> github: clone the repo
 activate github
 github --> travis:
