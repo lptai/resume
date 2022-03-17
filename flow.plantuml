@@ -1,0 +1,36 @@
+@startuml resume sequence diagram
+actor Developer as dev
+participant "Github" as github
+participant "Travis CI" as travis
+participant "Sejda" as sejda
+participant "Cloudflare" as cdn
+autonumber
+activate dev
+dev -> dev: update resume.json
+dev -> github: commit to git repo
+return
+deactivate dev
+activate github
+activate travis
+github -> travis: trigger build
+travis --> github
+deactivate github
+== BUILD ==
+
+travis -> github: clone the repo
+activate github
+github --> travis:
+deactivate github
+travis -> travis: compile resume.json + selected theme\nto resume.html
+
+travis -> sejda: parse resume.html to pdf
+activate sejda
+sejda --> travis: resume.pdf
+deactivate sejda
+== DEPLOY ==
+travis -> travis: deploy latest build to\n<b>https://resume.phuctaile.com</b>
+deactivate travis
+== ENJOY ==
+dev -> cdn: find online version at\n<b>https://resume.phuctaile.com</b>
+dev -> cdn: find pdf version at\n <b>https://resume.phuctaile.com/phuctaile.pdf</b>
+@enduml
