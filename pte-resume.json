@@ -5,7 +5,7 @@
     "email": "1112264.lptai@gmail.com",
     "phone": "(84) 77 575 2222",
     "website": "https://phuctaile.com",
-    "summary": "I'm a senior software engineer with more than 6 years in building and delivering enterprise products, software as a service, and digital banking. Experienced with Agile methodologies, Cloud-based applications, and Distributed System.",
+    "summary": "I'm a senior software engineer with nearly 7 years in building and delivering enterprise products, software as a service, and digital banking. Experienced with Agile methodologies, Cloud-based applications, and Distributed System.",
     "location": {
       "address": "",
       "postalCode": "70000",
@@ -33,31 +33,9 @@
   },
   "work": [
     {
-      "hidden": true,
-      "company": "ELCA",
-      "position": "Internship",
-      "startDate": "2015-03",
-      "endDate": "2015-06",
-      "projects": [
-        {
-          "name": "Hut Reservation",
-          "startDate": "2015-03",
-          "endDate": "2015-06",
-          "position": "Frontend developer",
-          "summary": "Developed a single page web application with Java (using Jersey as REST api) and AngularJS. That helps guest, climbers, mountaineers, families reserve hut. Developing offline mode, synchronize data when network reconnect",
-          "keywords": [
-            "Java (Jersey), Hibernate",
-            "AngularJS, Angular material",
-            "BreezeJS",
-            "Bootstrap"
-          ]
-        }
-      ]
-    },
-    {
       "company": "SecuTix | ELCA",
       "position": "Senior Software Engineer",
-      "startDate": "2015-08",
+      "startDate": "2015-03",
       "endDate": "2019-05",
       "website": "https://www.secutix.com/",
       "keywords": ["Ticketing", "Agile", "React, Redux", "Java", "Widget"],
