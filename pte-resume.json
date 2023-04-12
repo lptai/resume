@@ -134,6 +134,7 @@
       "position": "Frontend Engineer",
       "website": "https://flownetworks.io/",
       "startDate": "2021-04",
+      "endDate": "2022-05",
       "summary": "💳 Every Payment is a Real-Time Engagement Opportunity. Flow enables issuers to reach, engage and retain their customers by nudging consumers to use their product and service again, again and again.\nThe intuitive and powerful Flow Platform is built on top of any payment feed enabling issuers to engage with their customers, multiple times a day, based on their their real-time payment behavior.\nResponsibilities:",
       "highlights": [
         "Bring wow, a-ha moment to end-users by developing awesome widgets, ui components",
@@ -141,6 +142,19 @@
         "Get the best experience to customers by coordinating with designers, product owners, and members in team"
       ],
       "keywords": ["Fintech", "Payment", "Webpack", "Vue", "JavaScript (ES6)", "AWS"]
+    },
+    {
+      "company": "Propine",
+      "position": "Senior Software Engineer",
+      "website": "https://propine.com/",
+      "startDate": "2022-04",
+      "summary": "Propine is the first independent digital asset custodian licensed by the Monetary Authority of Singapore (MAS).\nResponsibilities:",
+      "highlights": [
+        "Participate in Agile team, build various features such as settlement, transfer etc",
+        "Build the escalation alert with DataDog by ingesting the logs in system",
+        "Lead a group of development, research, propose new design, process"
+      ],
+      "keywords": ["Payment", "Crypto", "Node", "Typescript", "DataDog", "AWS"]
     }
   ],
   "education": [
