@@ -61,7 +61,14 @@
             "Developed widgets (providing as an iframe) for customers so that they can put on their website. An innovative topic, worked directly with colleagues in Switzerland.",
             "Implemented REST API to provide data to the Frontend. Built UI component, widget to be embedded/plugged-in customer's website or application."
           ],
-          "keywords": ["Widget", "React", "Redux", "Rest api", "Webpack", "Gulp"]
+          "keywords": [
+            "Widget",
+            "React",
+            "Redux",
+            "Rest api",
+            "Webpack",
+            "Gulp"
+          ]
         }
       ]
     },
@@ -131,7 +138,7 @@
     },
     {
       "company": "Flow",
-      "position": "Frontend Engineer",
+      "position": "Software Engineer",
       "website": "https://flownetworks.io/",
       "startDate": "2021-04",
       "endDate": "2022-05",
@@ -141,19 +148,35 @@
         "Work on Micro-Frontend modules, build various ui widgets to embedded in mobile and re-use in many places",
         "Get the best experience to customers by coordinating with designers, product owners, and members in team"
       ],
-      "keywords": ["Fintech", "Payment", "Webpack", "Vue", "JavaScript (ES6)", "AWS"]
+      "keywords": [
+        "Fintech",
+        "Payment",
+        "Vue",
+        "DataDog",
+        "Java",
+        "Typescript",
+        "AWS"
+      ]
     },
     {
       "company": "Propine",
       "position": "Senior Software Engineer",
-      "website": "https://propine.com/",
       "startDate": "2022-04",
-      "summary": "Propine is the first independent digital asset custodian licensed by the Monetary Authority of Singapore (MAS).\nResponsibilities:",
+      "endDate": "2023-04",
       "highlights": [
-        "Participate in Agile team, build various features such as settlement, transfer etc",
-        "Build the escalation alert with DataDog by ingesting the logs in system",
-        "Lead a group of development, research, propose new design, process"
-      ],
+        "In charged of designing and developing scalable settlement (failure, mismatch handling, alert and retry)",
+        "Integrated with 3rd parties Genesis Trading, Mekle-Science, Signature Bank etc.",
+        "Enhanced system reliability by DataDog Observability (Alert Monitoring, Logs, Trace)",
+        "Lead a group to migrate from Rails to Nextjs Web Application"
+      ]
+    },
+    {
+      "company": "Propine",
+      "position": "Engineering Manager",
+      "website": "https://propine.com/",
+      "startDate": "2023-04",
+      "summary": "Propine is the first independent digital asset custodian licensed by the Monetary Authority of Singapore (MAS). We are build safe and efficient bridges between traditional and decentralized finance",
+      "highlights": [],
       "keywords": ["Payment", "Crypto", "Node", "Typescript", "DataDog", "AWS"]
     }
   ],
