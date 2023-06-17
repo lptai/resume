@@ -5,7 +5,7 @@
     "email": "1112264.lptai@gmail.com",
     "phone": "(84) 77 575 2222",
     "website": "https://phuctaile.com",
-    "summary": "I'm a senior software engineer with nearly 7 years in building and delivering enterprise products, software as a service, and digital banking. Experienced with Agile methodologies, Cloud-based applications, and Distributed System.",
+    "summary": "I'm a senior software engineer with more than 8 years in building and delivering enterprise products, software as a service, and digital banking. Experienced with Agile methodologies, Cloud-based applications, and Distributed System.",
     "location": {
       "address": "",
       "postalCode": "70000",
@@ -40,7 +40,7 @@
       "website": "https://www.secutix.com/",
       "keywords": ["Ticketing", "Agile", "React, Redux", "Java", "Widget"],
       "description": "Ticketing system",
-      "summary": "SecuTix is a Global provider of a Ticketing Engagement Platform that helps organizations boost ticket sales and enhance audiences’ experience before, during, and after events. Our customers are Opéra National de Paris, the UEFA, Centre Pompidou, Aspro Parks, Saracens, Paléo Festival, and more.",
+      "summary": "SecuTix is a Global provider of a Ticketing Engagement Platform that helps organizations boost ticket sales and enhance audiences experience before, during, and after events. Our customers are Opéra National de Paris, the UEFA, Centre Pompidou, Aspro Parks, Saracens, Paléo Festival, and more.",
       "highlights": [
         "Responsibilities:\n- Did work-breakdown structure for User Story, defined impact, implemented new features.\n- Coordinated with the customer support team to analyze and fixed incidents in production.\n- Did code review together in the team.\n- Optimized the performance of the Seat Map - a web module to visualize the stadium, cinema, theater to the application.\n- Developed a large-scale widget in a mono repo.",
         "Technologies:\n- HTML5, CSS3, JavaScript, Extjs, JQuery, D3, canvas, svg, react-redux, jest, enzyme, Webpack, Babel, Gulp, Storybook, NPM/Yarn, monorepo, styled component.\n- Java, Spring, Hibernate, Oracle, NoSQL (MongoDB).\n- CI/CD: Jenkins."
@@ -84,7 +84,7 @@
         {
           "name": "MoreTyme - Buy now, Pay later",
           "url": "https://www.tymebank.co.za/personal-banking/accounts/moretyme/",
-          "summary": "🛒 MoreTyme is a Buy Now, Pay Later service for TymeBank customers. You pay half the item’s purchase price at the till point and take it home straight away. Then pay the rest in 2 equal payments over 2 months.",
+          "summary": "🛒 MoreTyme is a Buy Now, Pay Later service for TymeBank customers. You pay half the item's purchase price at the till point and take it home straight away. Then pay the rest in 2 equal payments over 2 months.",
           "highlights": [
             "Coordinated with teams (PO/BA/QA/SA) to clarify the requirements.",
             "Designed, developed, and released distributed banking system with Microservice architecture, k8s, AWS cloud-native service.",
