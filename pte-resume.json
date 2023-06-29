@@ -160,28 +160,16 @@
     },
     {
       "company": "Propine",
-      "position": "Senior Software Engineer",
+      "position": "Senior/Lead Software Engineer",
       "startDate": "2022-04",
-      "endDate": "2023-04",
       "highlights": [
+        "Lead group around 3-5 people to develop and deliver new APIs, features",
         "In charged of designing and developing scalable settlement (failure, mismatch handling, alert, and retry)",
         "Integrated with 3rd parties Genesis Trading, Mekle-Science, Signature Bank, etc.",
         "Enhanced system reliability by DataDog Observability (Alert Monitoring, Logs, Trace)",
         "Lead a group to migrate from Rails to Nextjs Web Application"
       ],
       "keywords": ["Payment", "Crypto", "Node", "Typescript", "DataDog", "AWS"]
-    },
-    {
-      "company": "Propine",
-      "position": "Engineering Manager",
-      "startDate": "2023-04",
-      "summary": "Propine is the first independent digital asset custodian licensed by the Monetary Authority of Singapore (MAS). We are build safe and efficient bridges between traditional and decentralized finance",
-      "highlights": [
-        "Coordinated with stakeholders to define project milestones.",
-        "Managed the project plan, oversaw risk in aspects of developments, architectures.",
-        "Worked closely with team to define technical design, architecture, coding standard, and best practice."
-      ],
-      "keywords": ["Engineering", "Project Planning", "Design", "Architecture"]
     }
   ],
   "education": [
