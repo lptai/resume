@@ -167,9 +167,9 @@
         "In charged of designing and developing scalable settlement (failure, mismatch handling, alert, and retry)",
         "Integrated with 3rd parties Genesis Trading, Mekle-Science, Signature Bank, etc.",
         "Enhanced system reliability by DataDog Observability (Alert Monitoring, Logs, Trace)",
-        "Lead a group to migrate from Rails to Nextjs Web Application"
+        "Migrated Legacy to modern single page web app (from Rails to Nextjs)"
       ],
-      "keywords": ["Payment", "Crypto", "Node", "Typescript", "DataDog", "AWS"]
+      "keywords": ["Payment", "Crypto", "Node", "Typescript", "RabbitMQ", "DataDog", "AWS"]
     }
   ],
   "education": [
@@ -183,7 +183,7 @@
   ],
   "skills": [
     {
-      "name": "Programing languages",
+      "name": "Programming languages",
       "level": "Advanced",
       "keywords": ["JavaScript (ES6)", "Java"]
     },
