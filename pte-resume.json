@@ -80,7 +80,6 @@
       "company": "Propine",
       "position": "Lead Software Engineer",
       "startDate": "2022-04",
-      "endDate": "2023-11",
       "highlights": [
         "Third-Party Integration: Successfully integrated systems with Genesis Trading, Mekle-Science, Signature Bank, and other third-party services.",
         "System Reliability: Enhanced system reliability through DataDog observability, including alert monitoring, logging, and tracing.",
@@ -93,6 +92,7 @@
       "company": "Fortris",
       "position": "Lead Software Engineer",
       "startDate": "2023-11",
+      "hidden": true,
       "highlights": [
         "Performance Optimization: Conducted stress testing with Gatling to identify and resolve performance bottlenecks, enhancing system efficiency",
         "System Reliability: Enhanced system reliability by implementing advanced logging, tracing, and alerting mechanisms.",
